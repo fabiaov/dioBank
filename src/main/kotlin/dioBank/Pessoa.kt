@@ -5,7 +5,7 @@ class Pessoa {
     var cpf = "123.123.123-11"
     private set // nesse caso os metodos set são private
 
-    constructor()
+    constructor()// construtor secundario
 //    inner class Endereco {
 //        var rua: String = "Rua teste"
 //    }
